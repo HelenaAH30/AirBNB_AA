@@ -6,4 +6,6 @@ que contiene el código de análisis del dataset de Airbnb (fichero csv).
 Para este análisis también se adjunta un fichero de configuración de entorno (AirBNB.yml) y 
 un archivo de imagen (map.png) para la visualización de los datos.
 
+También se puede encontrar el PDF generado con el resultado final.
+
 Este análisis se ha realizado por Helena Antich.
